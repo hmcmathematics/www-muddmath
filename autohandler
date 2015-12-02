@@ -1,0 +1,12 @@
+<%doc>
+autohandler for muddmath section
+
+(C) 2015 Harvey Mudd College
+
+</%doc>
+%# Define some defaults here.
+<%method author>MuddMath Editors</%method>
+<%method author_email>muddmath@math.hmc.edu</%method>
+<%method section>MuddMath</%method>
+
+<% $m->call_next %>
